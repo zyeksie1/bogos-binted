@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animation2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kace down0000" x="0" y="0" width="281" height="621" frameX="0" frameY="-10" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0001" x="0" y="0" width="281" height="621" frameX="0" frameY="-10" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0002" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0003" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0004" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0005" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0006" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0007" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0008" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0009" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0010" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0011" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0012" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace down0013" x="281" y="0" width="269" height="632" frameX="-3" frameY="0" frameWidth="281" frameHeight="632"/>
+	<SubTexture name="kace idle20000" x="550" y="0" width="294" height="626" frameX="0" frameY="-7" frameWidth="294" frameHeight="633"/>
+	<SubTexture name="kace idle20001" x="550" y="0" width="294" height="626" frameX="0" frameY="-7" frameWidth="294" frameHeight="633"/>
+	<SubTexture name="kace idle20002" x="844" y="0" width="294" height="629" frameX="0" frameY="-4" frameWidth="294" frameHeight="633"/>
+	<SubTexture name="kace idle20003" x="1138" y="0" width="294" height="630" frameX="0" frameY="-3" frameWidth="294" frameHeight="633"/>
+	<SubTexture name="kace idle20004" x="1432" y="0" width="294" height="631" frameX="0" frameY="-2" frameWidth="294" frameHeight="633"/>
+	<SubTexture name="kace idle20005" x="1432" y="0" width="294" height="631" frameX="0" frameY="-2" frameWidth="294" frameHeight="633"/>
+	<SubTexture name="kace idle20006" x="1726" y="0" width="294" height="633"/>
+	<SubTexture name="kace idle20007" x="1726" y="0" width="294" height="633"/>
+	<SubTexture name="kace idle20008" x="1726" y="0" width="294" height="633"/>
+	<SubTexture name="kace idle20009" x="1726" y="0" width="294" height="633"/>
+	<SubTexture name="kace idle20010" x="1726" y="0" width="294" height="633"/>
+	<SubTexture name="kace idle20011" x="1726" y="0" width="294" height="633"/>
+	<SubTexture name="kace idle20012" x="1726" y="0" width="294" height="633"/>
+	<SubTexture name="kace idle20013" x="1726" y="0" width="294" height="633"/>
+	<SubTexture name="kace left0000" x="0" y="633" width="270" height="637"/>
+	<SubTexture name="kace left0001" x="0" y="633" width="270" height="637"/>
+	<SubTexture name="kace left0002" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0003" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0004" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0005" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0006" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0007" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0008" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0009" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0010" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0011" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0012" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace left0013" x="270" y="633" width="270" height="636" frameX="0" frameY="-1" frameWidth="270" frameHeight="637"/>
+	<SubTexture name="kace right0000" x="540" y="633" width="271" height="631"/>
+	<SubTexture name="kace right0001" x="540" y="633" width="271" height="631"/>
+	<SubTexture name="kace right0002" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0003" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0004" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0005" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0006" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0007" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0008" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0009" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0010" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0011" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0012" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace right0013" x="811" y="633" width="266" height="631" frameX="-3" frameY="0" frameWidth="271" frameHeight="631"/>
+	<SubTexture name="kace up0000" x="1077" y="633" width="268" height="638" frameX="0" frameY="0" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0001" x="1077" y="633" width="268" height="638" frameX="0" frameY="0" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0002" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0003" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0004" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0005" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0006" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0007" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0008" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0009" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0010" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0011" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0012" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+	<SubTexture name="kace up0013" x="1345" y="633" width="267" height="633" frameX="-4" frameY="-3" frameWidth="271" frameHeight="638"/>
+</TextureAtlas>
