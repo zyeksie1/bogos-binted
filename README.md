@@ -4,7 +4,7 @@ This is the repository for the Friday Night Funkin VS Kace mod.
 
 ## Credits / shoutouts
 Mod
-- [canvas_knight](https://twitter.com/canvas_knight) - Art
+- [canvas_knight](https://twitter.com/canvas_knight) - Art/Music
 - zyeksie - Program/Music
 
 Original game
